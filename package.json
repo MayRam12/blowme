@@ -1,0 +1,22 @@
+{
+  "name": "blowme",
+  "version": "0.0.1",
+  "description": "Daniel Zullo Janko Mandic Burak Son Damian Rodriguez Davide Ramaliata Daniel Norman",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/2color/blowme.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/2color/blowme/issues"
+  },
+  "homepage": "https://github.com/2color/blowme",
+  "dependencies": {
+    "express": "^4.4.1"
+  }
+}
